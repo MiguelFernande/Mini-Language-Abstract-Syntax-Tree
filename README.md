@@ -69,7 +69,7 @@ program Example:
 
 1. Save your mini-language program in a .txt file
 2. Run Project2.java
-3. Select your program file when prompted
+3. Select your program file when prompted (I've attached Example.txt to use)
 4. Program will:
    - Perform lexical analysis
    - Parse the program
